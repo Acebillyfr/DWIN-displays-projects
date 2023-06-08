@@ -11,4 +11,4 @@ Nice projects with DWIN displays, examples, tutorials and support
 3. Switch off DWIN display, insert SD card
 4. Power on the display; the upload begins until END displays
 5. Power off the display, take off the SD card
-6. Power on the display, you shoul see interface, waiting for sensor informations
+6. Power on the display, you should see interface, waiting for sensor informations
